@@ -1,0 +1,18 @@
+.Grand{
+    color: #ffffff;
+    font-size: 80px;
+    position: absolute;
+    top: 270px ;
+    left: 30px;
+    text-shadow: 0 0 5px black;
+
+}
+
+.Petit{
+    color: white;
+    font-size: 50px;
+    position: absolute;
+    top:350px;
+    left:35px;
+    text-shadow: 0 0 5px black;
+}
