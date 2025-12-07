@@ -6,7 +6,7 @@ export function Accueil() {
  
   return (
     <>
-    <div id="Accueil">
+    <div id="Acontainer">
       <Fond />
       <Header />
       <Text />

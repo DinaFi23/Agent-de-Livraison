@@ -1,4 +1,3 @@
-import { isValidElement } from 'react';
 import './AproposImage.css'
 
 export function AproposImage() {

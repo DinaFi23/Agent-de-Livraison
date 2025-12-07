@@ -16,16 +16,6 @@ export function AproposText() {
                 ciatis eveniet voluptate similique quisquam sed aut id?
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore dignissimos quam rem 
                 reiciendis obcaecati illo facilis at eos consequuntur explicabo, ducimus esse perspi
-                ciatis eveniet voluptate similique quisquam sed aut id?
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore dignissimos quam rem 
-                reiciendis obcaecati illo facilis at eos consequuntur explicabo, ducimus esse perspi
-                ciatis eveniet voluptate similique quisquam sed aut id?
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore dignissimos quam rem 
-                reiciendis obcaecati illo facilis at eos consequuntur explicabo, ducimus esse perspi
-                ciatis eveniet voluptate similique quisquam sed aut id?
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore dignissimos quam rem 
-                reiciendis obcaecati illo facilis at eos consequuntur explicabo, ducimus esse perspi
-                ciatis eveniet voluptate similique quisquam sed aut id?
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore dignissimos quam rem 
                 reiciendis obcaecati illo facilis at eos consequuntur explicabo, ducimus esse perspi
                 ciatis eveniet voluptate similique quisquam sed aut id?
