@@ -5,9 +5,22 @@ export function Reseau() {
   return (
     <>
       <div className="Rcontain">
-        <h1> Email : livreur@gmail.com</h1>
-        <h1> Tél : 020 20 200 20</h1>
-        <h1> Facebook : Livreur </h1>
+        <div className="ctc">
+            <img src="/ico/mail.png" alt=""  />
+            <p> Livreur@gmail.com </p>
+        </div>
+         <div className="ctc">
+            <img src="/ico/wp.png" alt=""  />
+            <p> O33 33 O33 OO </p>
+        </div>
+        <div className="ctc">
+            <img src="/ico/fb.png" alt=""  />
+            <p> LivreurPage </p>
+        </div>
+        <div className="ctc">
+            <img src="/ico/tel.png" alt=""  />
+            <p> O33 33 O33 OO </p>
+        </div>
       </div> 
     </>      
   )

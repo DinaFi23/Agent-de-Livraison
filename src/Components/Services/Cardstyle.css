@@ -13,8 +13,6 @@
 
 .card-container:hover{
     opacity: 1;
-    height: 74vh;
-    width: 27%;
 }
 
 .title{
@@ -30,7 +28,7 @@
 
 .description{
     height: 70%;
-    background-color: blue;
+    background-color: #06112b;
     border-radius: 10px;
     border-top-left-radius: 0;
     border-top-right-radius: 0;

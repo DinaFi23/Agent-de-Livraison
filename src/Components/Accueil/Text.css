@@ -1,18 +1,28 @@
-.Grand{
-    color: #ffffff;
-    font-size: 80px;
+.Tcontainer{
     position: absolute;
-    top: 270px ;
-    left: 30px;
-    text-shadow: 0 0 5px black;
+    top: 200px;
+    color:white;
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    gap:500px;
+}
 
+
+.Grand{
+    font-size:40px;
+    text-shadow: 0 0 5px black;
 }
 
 .Petit{
-    color: white;
-    font-size: 50px;
-    position: absolute;
-    top:350px;
-    left:35px;
-    text-shadow: 0 0 5px black;
+    font-size:30px;
+    color: #06112b;
+    background-color: orangered;
+    font-weight: bolder;
+    padding-left:10px;
+}
+
+#logo{
+    width:400px;
+    margin-left: 50px;
 }

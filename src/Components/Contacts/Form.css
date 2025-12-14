@@ -1,6 +1,6 @@
 .formulaire{
     height: 50%;
-    background-color: blue;
+    background-color: #06112b;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -27,7 +27,7 @@ textarea{
 
 button{
     color: white;
-    background-color: blue;
+    background-color: #06112b;
     width:200px;
     height:40px; 
     border-radius: 10px;
